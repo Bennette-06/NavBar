@@ -41,8 +41,7 @@
     position: relative;
 }
 
-.navbar-toggler:ho
-ver, .btn-close:hover{
+.navbar-toggler:hover, .btn-close:hover{
     color: #000;
 }
 
